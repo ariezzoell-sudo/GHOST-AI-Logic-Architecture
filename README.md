@@ -12,7 +12,7 @@ The system is driven by the **Absolute Consensus Algorithm** based on **Harmony 
 
 ### 📐 Core Function (Functional IP)
 
-The core function is the **Absolute Harmony Function**, expressed in the weighted equation. Every AI decision aims to achieve the **highest possible Harmony Score ($\mathbf{S}(x)$)**:
+The core function is the **Absolute Harmony Function**, expressed in the weighted equation. Every AI decision aims to achieve the **highest possible Harmony Score $$\mathbf{S}(x)$$**:
 
 $$\mathbf{S}(x) = (W_1 \cdot \text{CR}) + (W_2 \cdot \text{DM}) - (W_3 \cdot \text{VP}) - (\text{CP})$$
 
